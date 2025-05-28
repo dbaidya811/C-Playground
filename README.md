@@ -6,7 +6,7 @@ A collection of C programming exercises, mini projects, and code snippets create
 
 This repository includes:
 
-- <a href="https://gemini.google.com/app/9653e2b47159a0a7">🏦 Bank Management System</a>
+- <a href="url">🏦 Bank Management System</a>
 - 📆 Calendar Display
 - 👩‍💼 Employee Management System
 - 📚 Library Management System
